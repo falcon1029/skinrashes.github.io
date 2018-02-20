@@ -1,0 +1,49 @@
+ body {
+      background-color: #ffffff;
+      font-family: Roboto, sans-serif;
+      font-size: 36px;
+    }
+  h1{
+    background-color: #00000000;
+    font-family: Roboto,sans-serif;
+
+    }
+
+
+	   img {
+    width: 95%;
+    height: auto;
+    margin-left: 30px;
+}
+div.card {
+border-radius: 5px;
+    width: 95%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 100px;
+    margin-left: 30px;
+    text-align: left;
+
+}
+
+div.header {
+    border-radius: 10px 10px 0px 0px;
+    background-color: #c0392b;
+    color: white;
+    padding: 1px;
+    font-size: 40px;
+}
+
+div.container {
+    padding: 10px;
+}
+
+ul {
+border-radius: 10px;
+    background: #e74c3c;
+    padding: 20px;
+}
+ul li {
+    
+    padding: 5px;
+    margin-left: 35px;
+}
